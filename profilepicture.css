@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+img {
+	height: 100%;
+	width: 80%;
+}
+.image {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
